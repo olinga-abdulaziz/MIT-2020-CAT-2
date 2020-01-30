@@ -1,0 +1,227 @@
+.topnavdiv{
+    background-color: #1b1e21;
+    height: 3vh;
+    display: flex;
+}
+.topdiv{
+    background-color: black;
+    height: 50vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-image: url("resorces/b1.jpeg");
+    background-size: cover;
+}
+.imgimg{
+    width: 100%;
+    height: 50vh;
+}
+h1{
+    color: white;
+}
+h4{
+    margin-left: 20%;
+    color: white;
+}
+#butcust{
+    margin-left: 30%;
+    width: 24vh;
+    margin-top: 5%;
+}
+.startb{
+    color: yellow;
+    font-family: Chilanka;
+    margin-left: 20%;
+}
+.serv{
+    color: white;
+}
+.toptop1{
+    display: flex;
+}
+a{
+    color: white;
+    margin-top: 0%;
+    display: flex;
+}
+h2{
+    color: black;
+    margin-top: 8%;
+
+}
+h6{
+    color: black;
+}
+.mid_div{
+
+    height: 30vh;
+    display: flex;
+    width: 80%;
+}
+.myimge{
+    border-radius: 50vh;
+    width: 10vh;
+    height: 10vh;
+}
+.row{
+    margin-left: 10%;
+}
+.a{
+    background-image: url("resorces/flower.jpeg");
+    height: 60vh;
+    background-size: contain;
+}
+.nav-link{
+    margin-left: 200%;
+}
+#nn{
+    margin-left: 3%;
+    width: 94%;
+}
+p{
+    margin-left: 70%;
+}
+h3{
+    margin-top: 7%;
+}
+.mypaa{
+    margin-left: 8%;
+    margin-top: 3%;
+}
+.mymm{
+    height: 10vh;
+    background-color: white;
+    margin-left: 2%;
+    border-radius: 2%;
+    margin-right: 2%;
+    justify-content: center;
+    display: flex;
+
+}
+.hed1{
+    color: black;
+}
+#head1just{
+    margin-left: 1%;
+}
+.hed2{
+    margin-left: 23%;
+}
+.nu{
+    margin-left: 70%;
+}
+.fistdiv{
+    height: 10vh;
+    background-color: white;
+    border: white;
+    border-style: outset;
+    justify-content: left;
+   display: flex;
+}
+.about{
+    margin-left: 40%;
+    margin-top: 0%;
+}
+button{
+    height: 9vh;
+    background-color: white;
+    border: none;
+}
+.clc{
+    margin-left: 30%;
+    margin-top: 0%;
+}
+.cl{
+    margin-left: 19%;
+}
+.midmidmid{
+    height: 53vh;
+    background-color: red;
+}
+.my{
+    width: 100%;
+    height: 50vh;
+}
+.bbi{
+    margin-left: 0%;
+}
+#butcst{
+    width: 20vh;
+    height: 6vh;
+}
+.mag{
+    margin-left: 3%;
+}
+.mnn{
+    margin-left: 3%;
+}
+
+.topnav_2{
+    background-color: black;
+    width: 120vh;
+    height: 3vh;
+    display: flex;
+    margin-left: 66%;
+}
+.topnav_1{
+    background-color: black;
+    width: 40vh;
+    height: 3vh;
+    justify-content: left;
+}
+.buttt{
+    height: 3vh;width: 20vh;
+    background-color: black;
+    color: yellow;
+}
+.butt{
+    background-color: black;
+    color: white;
+    height: 3vh;
+}
+.mymm1{
+    width: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.neatbut{
+    background-color: white;
+
+}
+.mrw{
+    width: 20vh;
+    height: 5vh;
+    margin-left: 8%;
+}
+.mrr{
+    width: 20vh;
+    height: 5vh;
+    margin-left: 8%;
+}
+.mymm2{
+    width: 50%;
+    height: 10vh;
+    display: flex;
+}
+.mymm{
+    display: flex;
+}
+.modf{
+    margin-left: 8%;
+}
+.firstdiv1{
+    width: 30%;
+    display: flex;
+}
+.firstdiv2{
+    width: 70%;
+    justify-content: right;
+
+    display: flex;
+}
+.crew{
+    color: #1f8a54;
+}
+.creww{
+
+}
